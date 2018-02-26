@@ -1,5 +1,5 @@
 hello my git
 ff
 
-hello cd dev
+hello fetch dev
 
